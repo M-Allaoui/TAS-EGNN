@@ -118,7 +118,8 @@ The program reports:
 
 If you use this repository in your research, please cite:
 
-```@inproceedings{
+```
+@inproceedings{
 allaoui2026tasegnn,
 title={{TAS}-{EGNN}: Task-Aware Spectral Ego-Graphs for Efficient {GNN}s-Based Classification},
 author={Mebarka Allaoui and Rachid Hedjam and Sonia Gupta},
