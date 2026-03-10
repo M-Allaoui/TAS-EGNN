@@ -125,6 +125,7 @@ author={Mebarka Allaoui and Rachid Hedjam and Sonia Gupta},
 booktitle={The 29th International Conference on Artificial Intelligence and Statistics},
 year={2026},
 url={https://openreview.net/forum?id=C6GP4NM1FP}
-}```
+}
+```
 
 ---
